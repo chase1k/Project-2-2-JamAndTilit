@@ -1,0 +1,54 @@
+t N
+t E
+t N
+t W
+t S
+t W
+h
+h
+h
+h
+t N
+r
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+l data/tilt/tilt-3.txt
+t E
+t N
+t E
+t N
+t W
+t S
+h
+reset
+h
+h
+h
+h
+h
+h
+l missing.txt
+asejere
+quit
