@@ -1,0 +1,6 @@
+File: data/jam/jam-0.txt
+. X X
+Total configs: 1
+Unique configs: 1
+Step 0:
+. X X

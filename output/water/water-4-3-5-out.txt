@@ -1,0 +1,10 @@
+Amount: 4, Buckets: [3, 5]
+Total configs: 60
+Unique configs: 15
+Step 0: [0, 0]
+Step 1: [0, 5]
+Step 2: [3, 2]
+Step 3: [0, 2]
+Step 4: [2, 0]
+Step 5: [2, 5]
+Step 6: [3, 4]

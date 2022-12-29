@@ -1,0 +1,144 @@
+File: data/jam/jam-7.txt
+A . . C . O .
+A B B C . O .
+. . . . . O P
+X X Q . . D P
+. E Q F F D P
+. E Q . R R R
+. G G S S S .
+Total configs: 98441
+Unique configs: 13819
+Step 0:
+A . . C . O .
+A B B C . O .
+. . . . . O P
+X X Q . . D P
+. E Q F F D P
+. E Q . R R R
+. G G S S S .
+
+Step 1:
+A . . C . O .
+A B B C . O P
+. . . . . O P
+X X Q . . D P
+. E Q F F D .
+. E Q . R R R
+. G G S S S .
+
+Step 2:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+X X Q . . D .
+. E Q F F D .
+. E Q . R R R
+. G G S S S .
+
+Step 3:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+X X Q . . D .
+. E Q F F D .
+. E Q R R R .
+. G G S S S .
+
+Step 4:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+X X Q . . D .
+. E Q F F D .
+. E Q R R R .
+G G . S S S .
+
+Step 5:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+X X . . . D .
+. E Q F F D .
+. E Q R R R .
+G G Q S S S .
+
+Step 6:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+. X X . . D .
+. E Q F F D .
+. E Q R R R .
+G G Q S S S .
+
+Step 7:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+. . X X . D .
+. E Q F F D .
+. E Q R R R .
+G G Q S S S .
+
+Step 8:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+. . . X X D .
+. E Q F F D .
+. E Q R R R .
+G G Q S S S .
+
+Step 9:
+A . . C . O P
+A B B C . O P
+. . . . . O P
+. . Q X X D .
+. E Q F F D .
+. E Q R R R .
+G G . S S S .
+
+Step 10:
+A . . C . O P
+A B B C . O P
+. . Q . . O P
+. . Q X X D .
+. E Q F F D .
+. E . R R R .
+G G . S S S .
+
+Step 11:
+A . . C . O P
+A B B C . O P
+. . Q . . O P
+. . Q X X D .
+. E Q F F D .
+. E R R R . .
+G G . S S S .
+
+Step 12:
+A . . C . O P
+A B B C . O P
+. . Q . . O P
+. . Q X X . .
+. E Q F F D .
+. E R R R D .
+G G . S S S .
+
+Step 13:
+A . . C . O P
+A B B C . O P
+. . Q . . O P
+. . Q . X X .
+. E Q F F D .
+. E R R R D .
+G G . S S S .
+
+Step 14:
+A . . C . O P
+A B B C . O P
+. . Q . . O P
+. . Q . . X X
+. E Q F F D .
+. E R R R D .
+G G . S S S .

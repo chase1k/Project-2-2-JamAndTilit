@@ -1,0 +1,14 @@
+Amount: 2, Buckets: [5, 9, 14]
+Total configs: 1590
+Unique configs: 214
+Step 0: [0, 0, 0]
+Step 1: [5, 0, 0]
+Step 2: [0, 5, 0]
+Step 3: [5, 5, 0]
+Step 4: [1, 9, 0]
+Step 5: [1, 0, 0]
+Step 6: [0, 1, 0]
+Step 7: [5, 1, 0]
+Step 8: [0, 6, 0]
+Step 9: [5, 6, 0]
+Step 10: [2, 9, 0]

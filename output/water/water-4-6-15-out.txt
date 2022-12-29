@@ -1,0 +1,4 @@
+Amount: 4, Buckets: [6, 15]
+Total configs: 65
+Unique configs: 14
+No solution

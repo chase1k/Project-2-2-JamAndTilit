@@ -1,0 +1,9 @@
+File: data/tilt/tilt-6.txt
+* G . B .
+. . * . .
+. . O . .
+B . B . .
+. . . B *
+Total configs: 51
+Unique configs: 19
+No solution

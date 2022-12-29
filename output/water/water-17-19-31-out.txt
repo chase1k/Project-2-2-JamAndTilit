@@ -1,0 +1,16 @@
+Amount: 17, Buckets: [19, 31]
+Total configs: 120
+Unique configs: 27
+Step 0: [0, 0]
+Step 1: [0, 31]
+Step 2: [19, 12]
+Step 3: [0, 12]
+Step 4: [12, 0]
+Step 5: [12, 31]
+Step 6: [19, 24]
+Step 7: [0, 24]
+Step 8: [19, 5]
+Step 9: [0, 5]
+Step 10: [5, 0]
+Step 11: [5, 31]
+Step 12: [19, 17]

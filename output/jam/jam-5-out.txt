@@ -1,0 +1,576 @@
+File: data/jam/jam-5.txt
+A B B O O O
+A . C C D .
+X X E . D .
+F F E G G P
+. H H I . P
+Q Q Q I . P
+Total configs: 17346
+Unique configs: 2872
+Step 0:
+A B B O O O
+A . C C D .
+X X E . D .
+F F E G G P
+. H H I . P
+Q Q Q I . P
+
+Step 1:
+A B B O O O
+A C C . D .
+X X E . D .
+F F E G G P
+. H H I . P
+Q Q Q I . P
+
+Step 2:
+A B B O O O
+A C C . D .
+X X E . D .
+F F E G G P
+H H . I . P
+Q Q Q I . P
+
+Step 3:
+A B B O O O
+A C C . D .
+X X . . D .
+F F E G G P
+H H E I . P
+Q Q Q I . P
+
+Step 4:
+A B B O O O
+A C C . D .
+X X . . D P
+F F E G G P
+H H E I . P
+Q Q Q I . .
+
+Step 5:
+A B B O O O
+A C C . D P
+X X . . D P
+F F E G G P
+H H E I . .
+Q Q Q I . .
+
+Step 6:
+A B B O O O
+A C C . D P
+. X X . D P
+F F E G G P
+H H E I . .
+Q Q Q I . .
+
+Step 7:
+. B B O O O
+A C C . D P
+A X X . D P
+F F E G G P
+H H E I . .
+Q Q Q I . .
+
+Step 8:
+B B . O O O
+A C C . D P
+A X X . D P
+F F E G G P
+H H E I . .
+Q Q Q I . .
+
+Step 9:
+B B O O O .
+A C C . D P
+A X X . D P
+F F E G G P
+H H E I . .
+Q Q Q I . .
+
+Step 10:
+B B O O O P
+A C C . D P
+A X X . D P
+F F E G G .
+H H E I . .
+Q Q Q I . .
+
+Step 11:
+B B O O O P
+A C C . D P
+A X X . D P
+F F E . G G
+H H E I . .
+Q Q Q I . .
+
+Step 12:
+B B O O O P
+A C C . D P
+A X X . D P
+F F E I G G
+H H E I . .
+Q Q Q . . .
+
+Step 13:
+B B O O O P
+A C C . D P
+A X X I D P
+F F E I G G
+H H E . . .
+Q Q Q . . .
+
+Step 14:
+B B O O O P
+A C C I D P
+A X X I D P
+F F E . G G
+H H E . . .
+Q Q Q . . .
+
+Step 15:
+B B O O O P
+A C C I D P
+A X X I D P
+F F E G G .
+H H E . . .
+Q Q Q . . .
+
+Step 16:
+B B O O O .
+A C C I D P
+A X X I D P
+F F E G G P
+H H E . . .
+Q Q Q . . .
+
+Step 17:
+B B . O O O
+A C C I D P
+A X X I D P
+F F E G G P
+H H E . . .
+Q Q Q . . .
+
+Step 18:
+. B B O O O
+A C C I D P
+A X X I D P
+F F E G G P
+H H E . . .
+Q Q Q . . .
+
+Step 19:
+A B B O O O
+A C C I D P
+. X X I D P
+F F E G G P
+H H E . . .
+Q Q Q . . .
+
+Step 20:
+A B B O O O
+A C C I D P
+. X X I D P
+F F E G G P
+H H E . . .
+. Q Q Q . .
+
+Step 21:
+A B B O O O
+A C C I D P
+. X X I D P
+F F E G G P
+H H E . . .
+. . Q Q Q .
+
+Step 22:
+A B B O O O
+A C C I D P
+. X X I D P
+F F E G G P
+H H E . . .
+. . . Q Q Q
+
+Step 23:
+A B B O O O
+A C C I D P
+X X . I D P
+F F E G G P
+H H E . . .
+. . . Q Q Q
+
+Step 24:
+A B B O O O
+A C C I D P
+X X E I D P
+F F E G G P
+H H . . . .
+. . . Q Q Q
+
+Step 25:
+A B B O O O
+A C C I D P
+X X E I D P
+F F E G G P
+. H H . . .
+. . . Q Q Q
+
+Step 26:
+A B B O O O
+A C C I D P
+X X E I D P
+F F E G G P
+. . H H . .
+. . . Q Q Q
+
+Step 27:
+A B B O O O
+A C C I D P
+X X E I D P
+F F E G G P
+. . . H H .
+. . . Q Q Q
+
+Step 28:
+A B B O O O
+A C C I D P
+X X . I D P
+F F E G G P
+. . E H H .
+. . . Q Q Q
+
+Step 29:
+A B B O O O
+A C C I D P
+X X . I D P
+F F . G G P
+. . E H H .
+. . E Q Q Q
+
+Step 30:
+A B B O O O
+A C C I D P
+X X . I D P
+. F F G G P
+. . E H H .
+. . E Q Q Q
+
+Step 31:
+A B B O O O
+A C C I D P
+. X X I D P
+. F F G G P
+. . E H H .
+. . E Q Q Q
+
+Step 32:
+. B B O O O
+A C C I D P
+A X X I D P
+. F F G G P
+. . E H H .
+. . E Q Q Q
+
+Step 33:
+. B B O O O
+. C C I D P
+A X X I D P
+A F F G G P
+. . E H H .
+. . E Q Q Q
+
+Step 34:
+. B B O O O
+. C C I D P
+. X X I D P
+A F F G G P
+A . E H H .
+. . E Q Q Q
+
+Step 35:
+. B B O O O
+. C C I D P
+. X X I D P
+. F F G G P
+A . E H H .
+A . E Q Q Q
+
+Step 36:
+B B . O O O
+. C C I D P
+. X X I D P
+. F F G G P
+A . E H H .
+A . E Q Q Q
+
+Step 37:
+B B . O O O
+C C . I D P
+. X X I D P
+. F F G G P
+A . E H H .
+A . E Q Q Q
+
+Step 38:
+B B . O O O
+C C . I D P
+. X X I D P
+F F . G G P
+A . E H H .
+A . E Q Q Q
+
+Step 39:
+B B . O O O
+C C . I D P
+. X X I D P
+F F E G G P
+A . E H H .
+A . . Q Q Q
+
+Step 40:
+B B O O O .
+C C . I D P
+. X X I D P
+F F E G G P
+A . E H H .
+A . . Q Q Q
+
+Step 41:
+B B O O O P
+C C . I D P
+. X X I D P
+F F E G G .
+A . E H H .
+A . . Q Q Q
+
+Step 42:
+B B O O O P
+C C . I D P
+. X X I D P
+F F E G G .
+A . E H H .
+A . Q Q Q .
+
+Step 43:
+B B O O O P
+C C . I D P
+. X X I D P
+F F E G G .
+A . E H H .
+A Q Q Q . .
+
+Step 44:
+B B O O O P
+C C . I D P
+X X . I D P
+F F E G G .
+A . E H H .
+A Q Q Q . .
+
+Step 45:
+B B O O O P
+C C . I D P
+X X E I D P
+F F E G G .
+A . . H H .
+A Q Q Q . .
+
+Step 46:
+B B O O O P
+C C E I D P
+X X E I D P
+F F . G G .
+A . . H H .
+A Q Q Q . .
+
+Step 47:
+B B O O O P
+C C E I D P
+X X E I D P
+F F G G . .
+A . . H H .
+A Q Q Q . .
+
+Step 48:
+B B O O O P
+C C E I . P
+X X E I D P
+F F G G D .
+A . . H H .
+A Q Q Q . .
+
+Step 49:
+B B O O O P
+C C E I . P
+X X E I D P
+F F G G D .
+A . H H . .
+A Q Q Q . .
+
+Step 50:
+B B O O O P
+C C E I . P
+X X E I . P
+F F G G D .
+A . H H D .
+A Q Q Q . .
+
+Step 51:
+B B O O O P
+C C E I . P
+X X E I . P
+F F G G . .
+A . H H D .
+A Q Q Q D .
+
+Step 52:
+B B O O O P
+C C E I . P
+X X E I . P
+F F . G G .
+A . H H D .
+A Q Q Q D .
+
+Step 53:
+B B O O O P
+C C E I . P
+X X E I . P
+. F F G G .
+A . H H D .
+A Q Q Q D .
+
+Step 54:
+B B O O O P
+C C E I . P
+X X E I . P
+A F F G G .
+A . H H D .
+. Q Q Q D .
+
+Step 55:
+B B O O O P
+C C E I . P
+X X E I . P
+A F F . G G
+A . H H D .
+. Q Q Q D .
+
+Step 56:
+B B O O O P
+C C E I . P
+X X E I . P
+A F F . G G
+A H H . D .
+. Q Q Q D .
+
+Step 57:
+B B O O O P
+C C E . . P
+X X E I . P
+A F F I G G
+A H H . D .
+. Q Q Q D .
+
+Step 58:
+B B O O O P
+C C E . . P
+X X E . . P
+A F F I G G
+A H H I D .
+. Q Q Q D .
+
+Step 59:
+B B O O O P
+C C E . . P
+X X E . . P
+A F F I G G
+A H H I D .
+Q Q Q . D .
+
+Step 60:
+B B O O O P
+C C E . . P
+X X E . . P
+A F F . G G
+A H H I D .
+Q Q Q I D .
+
+Step 61:
+B B O O O P
+C C E . . P
+X X E . . P
+A F F G G .
+A H H I D .
+Q Q Q I D .
+
+Step 62:
+B B O O O .
+C C E . . P
+X X E . . P
+A F F G G P
+A H H I D .
+Q Q Q I D .
+
+Step 63:
+B B . O O O
+C C E . . P
+X X E . . P
+A F F G G P
+A H H I D .
+Q Q Q I D .
+
+Step 64:
+B B E O O O
+C C E . . P
+X X . . . P
+A F F G G P
+A H H I D .
+Q Q Q I D .
+
+Step 65:
+B B E O O O
+C C E . . .
+X X . . . P
+A F F G G P
+A H H I D P
+Q Q Q I D .
+
+Step 66:
+B B E O O O
+C C E . . .
+X X . . . .
+A F F G G P
+A H H I D P
+Q Q Q I D P
+
+Step 67:
+B B E O O O
+C C E . . .
+. X X . . .
+A F F G G P
+A H H I D P
+Q Q Q I D P
+
+Step 68:
+B B E O O O
+C C E . . .
+. . X X . .
+A F F G G P
+A H H I D P
+Q Q Q I D P
+
+Step 69:
+B B E O O O
+C C E . . .
+. . . X X .
+A F F G G P
+A H H I D P
+Q Q Q I D P
+
+Step 70:
+B B E O O O
+C C E . . .
+. . . . X X
+A F F G G P
+A H H I D P
+Q Q Q I D P

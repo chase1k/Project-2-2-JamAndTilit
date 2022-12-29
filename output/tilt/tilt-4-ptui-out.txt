@@ -1,0 +1,369 @@
+* * . . .
+. . * . .
+B . O . .
+* * . . .
+B G . . .
+
+h(int)              -- hint next move
+l(oad) filename     -- load new puzzle file
+t(ilt) {N|S|E|W}    -- tilt the board in the given direction
+q(uit)              -- quit the game
+r(eset)             -- reset the current game
+> * * . . .
+B . * . .
+. . O . .
+* * . . .
+B G . . .
+
+> * * . . .
+. B * . .
+. . O . .
+* * . . .
+. . . B G
+
+> * * . B G
+. B * . .
+. . O . .
+* * . . .
+. . . . .
+
+> * * B G .
+B . * . .
+. . O . .
+* * . . .
+. . . . .
+
+> * * B . .
+. . * . .
+B . O . .
+* * . . .
+. . . G .
+
+> * * B . .
+. . * . .
+B . O . .
+* * . . .
+G . . . .
+
+> Next step!
+* * B . .
+B . * . .
+. . O . .
+* * . . .
+G . . . .
+
+> Next step!
+* * . . B
+. B * . .
+. . O . .
+* * . . .
+. . . . G
+
+> Next step!
+* * . . .
+. . * . .
+. B O . .
+* * . . B
+. . . . G
+
+> Next step!
+* * . . .
+. . * . .
+B . O . .
+* * B . .
+G . . . .
+
+> Illegal move. A blue slider will fall through the hole!
+* * . . .
+. . * . .
+B . O . .
+* * B . .
+G . . . .
+
+> Puzzle reset!
+* * . . .
+. . * . .
+B . O . .
+* * . . .
+B G . . .
+
+> Next step!
+* * . . .
+B . * . .
+. . O . .
+* * . . .
+B G . . .
+
+> Next step!
+* * . . .
+. B * . .
+. . O . .
+* * . . .
+. . . B G
+
+> Next step!
+* * . B G
+. B * . .
+. . O . .
+* * . . .
+. . . . .
+
+> Next step!
+* * B G .
+B . * . .
+. . O . .
+* * . . .
+. . . . .
+
+> Next step!
+* * B . .
+. . * . .
+B . O . .
+* * . . .
+. . . G .
+
+> Next step!
+* * B . .
+. . * . .
+B . O . .
+* * . . .
+G . . . .
+
+> Next step!
+* * B . .
+B . * . .
+. . O . .
+* * . . .
+G . . . .
+
+> Next step!
+* * . . B
+. B * . .
+. . O . .
+* * . . .
+. . . . G
+
+> Next step!
+* * . . .
+. . * . .
+. B O . .
+* * . . B
+. . . . G
+
+> Next step!
+* * . . .
+. . * . .
+B . O . .
+* * B . .
+G . . . .
+
+> Next step!
+* * . . .
+. . * . .
+B . O . .
+* * . . .
+G . B . .
+
+> Next step!
+* * . . .
+. . * . .
+B . O . .
+* * . . .
+G B . . .
+
+> Next step!
+* * . . .
+B . * . .
+. . O . .
+* * . . .
+G B . . .
+
+> Next step!
+* * . . .
+. B * . .
+. . O . .
+* * . . .
+. . . G B
+
+> Next step!
+* * . G B
+. B * . .
+. . O . .
+* * . . .
+. . . . .
+
+> Next step!
+* * G B .
+B . * . .
+. . O . .
+* * . . .
+. . . . .
+
+> Next step!
+* * G . .
+. . * . .
+B . O . .
+* * . . .
+. . . B .
+
+> Next step!
+* * G . .
+. . * . .
+B . O . .
+* * . . .
+B . . . .
+
+> Next step!
+* * G . .
+B . * . .
+. . O . .
+* * . . .
+B . . . .
+
+> Next step!
+* * . . G
+. B * . .
+. . O . .
+* * . . .
+. . . . B
+
+> Next step!
+* * . . .
+. . * . .
+. B O . .
+* * . . G
+. . . . B
+
+> Next step!
+* * . . .
+. . * . .
+B . O . .
+* * G . .
+B . . . .
+
+> Next step!
+* * . . .
+B . * . .
+. . O . .
+* * . . .
+B . . . .
+
+> Already solved!
+* * . . .
+B . * . .
+. . O . .
+* * . . .
+B . . . .
+
+> Loaded: data/tilt/tilt-3.txt
+* B . . .
+B G * . .
+G . O * .
+. . * . .
+. * . . .
+
+> * . . . B
+B G * . .
+. . O * .
+. . * . .
+. * . . .
+
+> * G . . B
+B . * . .
+. . O * .
+. . * . .
+. * . . .
+
+> * . . G B
+. B * . .
+. . O * .
+. . * . .
+. * . . .
+
+> * B . G B
+. . * . .
+. . O * .
+. . * . .
+. * . . .
+
+> * B G B .
+. . * . .
+. . O * .
+. . * . .
+. * . . .
+
+> * . G . .
+. . * B .
+. . O * .
+. B * . .
+. * . . .
+
+> No solution!
+* . G . .
+. . * B .
+. . O * .
+. B * . .
+. * . . .
+
+> Puzzle reset!
+* B . . .
+B G * . .
+G . O * .
+. . * . .
+. * . . .
+
+> Next step!
+* . . . B
+B G * . .
+. . O * .
+. . * . .
+. * . . .
+
+> Next step!
+* B . . .
+B G * . .
+. . O * .
+. . * . .
+. * . . .
+
+> Next step!
+* . . . .
+. . * . .
+. B O * .
+. G * . .
+B * . . .
+
+> Next step!
+* . . . .
+. . * . .
+B . O * .
+G . * . .
+B * . . .
+
+> Next step!
+* . . . .
+B . * . .
+G . O * .
+B . * . .
+. * . . .
+
+> Next step!
+* . . . .
+. B * . .
+. . O * .
+. B * . .
+. * . . .
+
+> Failed to load: missing.txt
+* . . . .
+. B * . .
+. . O * .
+. B * . .
+. * . . .
+
+> h(int)              -- hint next move
+l(oad) filename     -- load new puzzle file
+t(ilt) {N|S|E|W}    -- tilt the board in the given direction
+q(uit)              -- quit the game
+r(eset)             -- reset the current game
+>

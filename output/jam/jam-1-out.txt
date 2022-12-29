@@ -1,0 +1,25 @@
+File: data/jam/jam-1.txt
+. B B
+. . A
+X X A
+Total configs: 6
+Unique configs: 4
+Step 0:
+. B B
+. . A
+X X A
+
+Step 1:
+B B .
+. . A
+X X A
+
+Step 2:
+B B A
+. . A
+X X .
+
+Step 3:
+B B A
+. . A
+. X X

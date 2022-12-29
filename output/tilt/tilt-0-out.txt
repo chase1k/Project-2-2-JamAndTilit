@@ -1,0 +1,16 @@
+File: data/tilt/tilt-0.txt
+G . 
+. O 
+Total configs: 10
+Unique configs: 4
+Step 0: 
+G . 
+. O 
+
+Step 1: 
+. . 
+G O 
+
+Step 2: 
+. . 
+. O

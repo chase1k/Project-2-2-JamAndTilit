@@ -1,0 +1,9 @@
+Start: AB, End: XD
+Total configs: 181
+Unique configs: 67
+Step 0: AB
+Step 1: ZB
+Step 2: YB
+Step 3: XB
+Step 4: XC
+Step 5: XD

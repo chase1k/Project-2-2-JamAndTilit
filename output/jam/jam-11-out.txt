@@ -1,0 +1,11 @@
+File: data/jam/jam-11.txt
+A X X C H O K
+A B B C H O K
+. I I L L O P
+J J Q . . D P
+. E Q F F D P
+. E Q . R R R
+. G G S S S .
+Total configs: 299991
+Unique configs: 32926
+No solution

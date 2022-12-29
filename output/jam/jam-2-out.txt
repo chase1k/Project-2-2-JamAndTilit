@@ -1,0 +1,48 @@
+File: data/jam/jam-2.txt
+. P P P
+. B B O
+. . A O
+X X A O
+Total configs: 36
+Unique configs: 13
+Step 0:
+. P P P
+. B B O
+. . A O
+X X A O
+
+Step 1:
+. P P P
+B B . O
+. . A O
+X X A O
+
+Step 2:
+. P P P
+B B A O
+. . A O
+X X . O
+
+Step 3:
+P P P .
+B B A O
+. . A O
+X X . O
+
+Step 4:
+P P P O
+B B A O
+. . A O
+X X . .
+
+Step 5:
+P P P O
+B B A O
+. . A O
+. X X .
+
+Step 6:
+P P P O
+B B A O
+. . A O
+. . X X

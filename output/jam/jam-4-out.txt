@@ -1,0 +1,184 @@
+File: data/jam/jam-4.txt
+. . O . A A
+. . O . . .
+X X O . . .
+P P P . . Q
+. . . . . Q
+. . . . . Q
+Total configs: 304
+Unique configs: 98
+Step 0:
+. . O . A A
+. . O . . .
+X X O . . .
+P P P . . Q
+. . . . . Q
+. . . . . Q
+
+Step 1:
+. . O A A .
+. . O . . .
+X X O . . .
+P P P . . Q
+. . . . . Q
+. . . . . Q
+
+Step 2:
+. . O A A .
+. . O . . .
+X X O . . .
+. P P P . Q
+. . . . . Q
+. . . . . Q
+
+Step 3:
+. . O A A .
+. . O . . .
+X X O . . .
+. . P P P Q
+. . . . . Q
+. . . . . Q
+
+Step 4:
+. . O A A .
+. . O . . .
+X X O . . Q
+. . P P P Q
+. . . . . Q
+. . . . . .
+
+Step 5:
+. . O A A .
+. . O . . Q
+X X O . . Q
+. . P P P Q
+. . . . . .
+. . . . . .
+
+Step 6:
+. . O A A Q
+. . O . . Q
+X X O . . Q
+. . P P P .
+. . . . . .
+. . . . . .
+
+Step 7:
+. . O A A Q
+. . O . . Q
+X X O . . Q
+. . . P P P
+. . . . . .
+. . . . . .
+
+Step 8:
+. . . A A Q
+. . O . . Q
+X X O . . Q
+. . O P P P
+. . . . . .
+. . . . . .
+
+Step 9:
+. . . A A Q
+. . . . . Q
+X X O . . Q
+. . O P P P
+. . O . . .
+. . . . . .
+
+Step 10:
+. . . A A Q
+. . . . . Q
+X X . . . Q
+. . O P P P
+. . O . . .
+. . O . . .
+
+Step 11:
+. . . A A Q
+. . . . . Q
+. X X . . Q
+. . O P P P
+. . O . . .
+. . O . . .
+
+Step 12:
+. . . A A Q
+. . . . . Q
+. . X X . Q
+. . O P P P
+. . O . . .
+. . O . . .
+
+Step 13:
+. . . A A Q
+. . . . . Q
+. . . X X Q
+. . O P P P
+. . O . . .
+. . O . . .
+
+Step 14:
+. . . A A Q
+. . . . . Q
+. . O X X Q
+. . O P P P
+. . O . . .
+. . . . . .
+
+Step 15:
+. . . A A Q
+. . O . . Q
+. . O X X Q
+. . O P P P
+. . . . . .
+. . . . . .
+
+Step 16:
+. . O A A Q
+. . O . . Q
+. . O X X Q
+. . . P P P
+. . . . . .
+. . . . . .
+
+Step 17:
+. . O A A Q
+. . O . . Q
+. . O X X Q
+. . P P P .
+. . . . . .
+. . . . . .
+
+Step 18:
+. . O A A .
+. . O . . Q
+. . O X X Q
+. . P P P Q
+. . . . . .
+. . . . . .
+
+Step 19:
+. . O A A .
+. . O . . .
+. . O X X Q
+. . P P P Q
+. . . . . Q
+. . . . . .
+
+Step 20:
+. . O A A .
+. . O . . .
+. . O X X .
+. . P P P Q
+. . . . . Q
+. . . . . Q
+
+Step 21:
+. . O A A .
+. . O . . .
+. . O . X X
+. . P P P Q
+. . . . . Q
+. . . . . Q

@@ -1,0 +1,4 @@
+Start: B, End: !
+Total configs: 53
+Unique configs: 26
+No solution

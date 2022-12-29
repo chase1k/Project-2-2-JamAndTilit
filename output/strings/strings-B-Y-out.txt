@@ -1,0 +1,7 @@
+Start: B, End: Y
+Total configs: 11
+Unique configs: 7
+Step 0: B
+Step 1: A
+Step 2: Z
+Step 3: Y

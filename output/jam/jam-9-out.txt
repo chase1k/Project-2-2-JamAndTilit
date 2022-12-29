@@ -1,0 +1,207 @@
+File: data/jam/jam-9.txt
+. O O O . A .
+B P P P . A .
+B . Q R . C C
+X X Q R . . .
+. . Q R . D .
+E S S S . D .
+E . F F G G .
+Total configs: 172659
+Unique configs: 20334
+Step 0:
+. O O O . A .
+B P P P . A .
+B . Q R . C C
+X X Q R . . .
+. . Q R . D .
+E S S S . D .
+E . F F G G .
+
+Step 1:
+O O O . . A .
+B P P P . A .
+B . Q R . C C
+X X Q R . . .
+. . Q R . D .
+E S S S . D .
+E . F F G G .
+
+Step 2:
+O O O . . A .
+B P P P . A .
+B . Q R . C C
+X X Q R . D .
+. . Q R . D .
+E S S S . . .
+E . F F G G .
+
+Step 3:
+O O O . . A .
+B P P P . A .
+B . Q R . C C
+X X Q R . D .
+. . Q R . D .
+E . S S S . .
+E . F F G G .
+
+Step 4:
+O O O . . A .
+B P P P . A .
+B . Q R . C C
+X X Q R . D .
+. . Q R . D .
+E . . S S S .
+E . F F G G .
+
+Step 5:
+O O O . . A .
+B P P P . A .
+B . . R . C C
+X X Q R . D .
+. . Q R . D .
+E . Q S S S .
+E . F F G G .
+
+Step 6:
+O O O . . A .
+B P P P . A .
+B . . R . C C
+X X Q R . D .
+. . Q R . D .
+E . Q S S S .
+E . F F . G G
+
+Step 7:
+O O O . . A .
+B P P P . A .
+B . . R . C C
+X X Q R . D .
+. . Q R . D .
+E . Q S S S .
+E . . F F G G
+
+Step 8:
+O O O . . A .
+B P P P . A .
+B . . R . C C
+X X . R . D .
+. . Q R . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 9:
+O O O . . A .
+B P P P . A .
+B . . R . C C
+. X X R . D .
+. . Q R . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 10:
+O O O . . A .
+. P P P . A .
+B . . R . C C
+B X X R . D .
+. . Q R . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 11:
+O O O . . A .
+P P P . . A .
+B . . R . C C
+B X X R . D .
+. . Q R . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 12:
+O O O . . A .
+P P P R . A .
+B . . R . C C
+B X X R . D .
+. . Q . . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 13:
+O O O R . A .
+P P P R . A .
+B . . R . C C
+B X X . . D .
+. . Q . . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 14:
+O O O R . A .
+P P P R . A .
+B . . R . C C
+B . X X . D .
+. . Q . . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 15:
+O O O R . A .
+P P P R . A .
+B . . R . C C
+B . . X X D .
+. . Q . . D .
+E . Q S S S .
+E . Q F F G G
+
+Step 16:
+O O O R . A .
+P P P R . A .
+B . . R . C C
+B . Q X X D .
+. . Q . . D .
+E . Q S S S .
+E . . F F G G
+
+Step 17:
+O O O R . A .
+P P P R . A .
+B . Q R . C C
+B . Q X X D .
+. . Q . . D .
+E . . S S S .
+E . . F F G G
+
+Step 18:
+O O O R . A .
+P P P R . A .
+B . Q R . C C
+B . Q X X D .
+. . Q . . D .
+E . S S S . .
+E . . F F G G
+
+Step 19:
+O O O R . A .
+P P P R . A .
+B . Q R . C C
+B . Q X X . .
+. . Q . . D .
+E . S S S D .
+E . . F F G G
+
+Step 20:
+O O O R . A .
+P P P R . A .
+B . Q R . C C
+B . Q . X X .
+. . Q . . D .
+E . S S S D .
+E . . F F G G
+
+Step 21:
+O O O R . A .
+P P P R . A .
+B . Q R . C C
+B . Q . . X X
+. . Q . . D .
+E . S S S D .
+E . . F F G G

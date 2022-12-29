@@ -1,0 +1,55 @@
+File: data/jam/jam-3.txt
+X X C D E
+. . C D E
+. . . F F
+Total configs: 76
+Unique configs: 24
+Step 0:
+X X C D E
+. . C D E
+. . . F F
+
+Step 1:
+X X C D E
+. . C D E
+. . F F .
+
+Step 2:
+X X C D .
+. . C D E
+. . F F E
+
+Step 3:
+X X C D .
+. . C D E
+. F F . E
+
+Step 4:
+X X C . .
+. . C D E
+. F F D E
+
+Step 5:
+X X C . .
+. . C D E
+F F . D E
+
+Step 6:
+X X . . .
+. . C D E
+F F C D E
+
+Step 7:
+. X X . .
+. . C D E
+F F C D E
+
+Step 8:
+. . X X .
+. . C D E
+F F C D E
+
+Step 9:
+. . . X X
+. . C D E
+F F C D E

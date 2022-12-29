@@ -1,0 +1,162 @@
+File: data/jam/jam-8.txt
+O O O P . A A
+. B B P . . .
+Q Q Q P . R .
+. X X C . R .
+. . . C . R .
+. . D E E . F
+. . D . G G F
+Total configs: 435613
+Unique configs: 49070
+Step 0:
+O O O P . A A
+. B B P . . .
+Q Q Q P . R .
+. X X C . R .
+. . . C . R .
+. . D E E . F
+. . D . G G F
+
+Step 1:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. X X C . R .
+. . . C . R .
+. . D E E R F
+. . D . G G F
+
+Step 2:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. X X C . R .
+. . D C . R .
+. . D E E R F
+. . . . G G F
+
+Step 3:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. X X C . R .
+. . D C . R .
+. . D E E R F
+. . . G G . F
+
+Step 4:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. X X C . . .
+. . D C . R .
+. . D E E R F
+. . . G G R F
+
+Step 5:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X . C . . .
+. . D C . R .
+. . D E E R F
+. . . G G R F
+
+Step 6:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X D C . . .
+. . D C . R .
+. . . E E R F
+. . . G G R F
+
+Step 7:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X D C . . .
+. . D C . R .
+. . E E . R F
+. . . G G R F
+
+Step 8:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X D C . . .
+. . D C . R .
+. E E . . R F
+. . . G G R F
+
+Step 9:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X D . . . .
+. . D C . R .
+. E E C . R F
+. . . G G R F
+
+Step 10:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X D . . . .
+. . D C . R .
+E E . C . R F
+. . . G G R F
+
+Step 11:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+X X . . . . .
+. . D C . R .
+E E D C . R F
+. . . G G R F
+
+Step 12:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. X X . . . .
+. . D C . R .
+E E D C . R F
+. . . G G R F
+
+Step 13:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. . X X . . .
+. . D C . R .
+E E D C . R F
+. . . G G R F
+
+Step 14:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. . . X X . .
+. . D C . R .
+E E D C . R F
+. . . G G R F
+
+Step 15:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. . . . X X .
+. . D C . R .
+E E D C . R F
+. . . G G R F
+
+Step 16:
+O O O P . A A
+. B B P . . .
+Q Q Q P . . .
+. . . . . X X
+. . D C . R .
+E E D C . R F
+. . . G G R F
